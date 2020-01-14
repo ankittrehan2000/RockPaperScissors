@@ -1,2 +1,2 @@
 # RockPaperScissors
-Python game for the game Rock paper and scissors
+Python game for playing Rock paper and scissors with a computer
